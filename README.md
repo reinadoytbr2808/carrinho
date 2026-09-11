@@ -2,6 +2,8 @@
 
 # Carrinho Mecatrõnico
 Projeto de um Veiculo mecatonico usando sucata de lixo eletronico
+
+[](IMG/carrinho-mecatronico.jpg)
 ## Autores 
 - Reinaldo Mejia
 - jhonathan Josue
