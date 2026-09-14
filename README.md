@@ -3,7 +3,8 @@
 # Carrinho Mecatrõnico
 Projeto de um Veiculo mecatonico usando sucata de lixo eletronico
 
-![](IMG/carrinho-mecatronico.jpg)
+![](<img width="838" height="1280" alt="3a786623-b29e-4ec9-8169-429ae8d925d9" src="https://github.com/user-attachments/assets/8d48120e-de9a-4a4d-80b1-7186ea7e9a76" />
+)
 ## Autores 
 - Reinaldo Mejia
 - jhonathan Josue
@@ -12,4 +13,4 @@ Projeto de um Veiculo mecatonico usando sucata de lixo eletronico
 
 ---
 ## simulador do projeto
-[simulador](<img width="838" height="1280" alt="3a786623-b29e-4ec9-8169-429ae8d925d9" src="https://github.com/user-attachments/assets/b218b5a3-3487-48c9-9fd9-45d6f81ae2b6" />)
+[simulador](https://www.tinkercad.com/things/l4p1S6tYkWS-ti-0126-carrinho?sharecode=2in_SKZHYqYx0wUMKZ3PvDvdG7X4RQeXO-NJKrFp2V4)
