@@ -12,4 +12,5 @@ Projeto de um Veiculo mecatonico usando sucata de lixo eletronico
 
 ---
 ## simulador do projeto
-[simulador](https://www.tinkercad.com/things/l4p1S6tYkWS-ti-0126-carrinho?sharecode=2in_SKZHYqYx0wUMKZ3PvDvdG7X4RQeXO-NJKrFp2V4)
+[simulador](<img width="838" height="1280" alt="3a786623-b29e-4ec9-8169-429ae8d925d9" src="https://github.com/user-attachments/assets/b218b5a3-3487-48c9-9fd9-45d6f81ae2b6" />
+)
