@@ -3,7 +3,7 @@
 # Carrinho Mecatrõnico
 Projeto de um Veiculo mecatonico usando sucata de lixo eletronico
 
-![](<img width="838" height="1280" alt="3a786623-b29e-4ec9-8169-429ae8d925d9" src="https://github.com/user-attachments/assets/8d48120e-de9a-4a4d-80b1-7186ea7e9a76" />)
+![](<img width="838" height="1280" alt="3a786623-b29e-4ec9-8169-429ae8d925d9" src="https://github.com/user-attachments/assets/15b1f6c8-2f27-46f3-8abd-39e9e31253e2" />)
 ## Autores 
 - Reinaldo Mejia
 - jhonathan Josue
